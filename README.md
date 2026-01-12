@@ -7,9 +7,9 @@ I am a qualified <b>Metallurgical Engineer</b> based in Germany with over 15 yea
 
 - I’m currently working on a **Computer Vision model for casting defect detection** and **GNNs for solidification prediction**
 
-- I’m currently deepening my knowledge in **Advanced GNN architectures** and **Go**
+- I’m currently deepening my knowledge in **Advanced GNN architectures**
 
-- I’m open to collaborate on **Open Source AI tools for Manufacturing** and **Matrix self-hosted setups**
+- I’m open to collaborate on **AI tools for Manufacturing**
 
 - Check out my projects at [https://github.com/eugenmik](https://github.com/eugenmik)
 
