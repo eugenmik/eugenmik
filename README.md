@@ -26,7 +26,6 @@ I am a qualified <b>Metallurgical Engineer</b> based in Germany with over 15 yea
 <a href="https://linkedin.com/in/eugenmiknevic" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="eugenmiknevic" height="30" width="40" /></a>
 <a href="https://gussmaker.com" target="blank"><img align="center" src="https://img.shields.io/badge/Website-Gussmaker-blue?style=for-the-badge&logo=google-chrome" alt="gussmaker" height="30" /></a>
 </p>
-
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
     <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
@@ -41,5 +40,4 @@ I am a qualified <b>Metallurgical Engineer</b> based in Germany with over 15 yea
     <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> 
     <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> 
 </p>
-
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=eugenmik&show_icons=true&locale=en&layout=compact" alt="eugenmik" /></p>
