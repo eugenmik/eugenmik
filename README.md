@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Eugen Miknevic 👋</h1>
+<h1 align="center">Hi there, I'm Eugen Miknevic</h1>
 <h3 align="center">Senior Foundry Engineer & AI Developer | Industrial AI Enthusiast</h3>
 
 <p align="left">
@@ -40,4 +40,3 @@ I am a qualified <b>Metallurgical Engineer</b> based in Germany with over 15 yea
     <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> 
     <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> 
 </p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=eugenmik&show_icons=true&locale=en&layout=compact" alt="eugenmik" /></p>
