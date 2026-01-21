@@ -19,8 +19,6 @@ I am a qualified <b>Metallurgical Engineer</b> based in Germany with over 15 yea
 
 - How to reach me: **eugen@gussmaker.com**
 
-- Read about my professional experience: [https://gussmaker.com/about-us/](https://gussmaker.com/about-us/)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/eugenmiknevic" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="eugenmiknevic" height="30" width="40" /></a>
