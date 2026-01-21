@@ -11,9 +11,9 @@ I am a qualified <b>Metallurgical Engineer</b> based in Germany with over 15 yea
 
 - I’m open to collaborate on **AI tools for Manufacturing**
 
-- Check out my projects at [https://github.com/eugenmik](https://github.com/eugenmik)
+- Check out my projects at [GitHub](https://github.com/eugenmik?tab=repositories)
 
-- I regularly write articles about Foundry & AI at [https://gussmaker.com/articles-and-news/](https://gussmaker.com/articles-and-news/)
+- I regularly write articles about Foundry & AI at [GussMaker](https://gussmaker.com/articles-and-news/)
 
 - Ask me about **Industrial AI, Casting Technology, LLMs, RAG Agents, Python, Docker**
 
