@@ -13,7 +13,7 @@ I am a qualified <b>Metallurgical Engineer</b> based in Germany with over 15 yea
 
 - Check out my projects at [GitHub](https://github.com/eugenmik?tab=repositories)
 
-- I regularly write articles about Foundry & AI at [GussMaker](https://gussmaker.com/articles-and-news/)
+- I regularly write articles about Foundry & AI at [GussMaker](https://gussmaker.com/)
 
 - Ask me about **Industrial AI, Casting Technology, LLMs, RAG Agents, Python, Docker**
 
