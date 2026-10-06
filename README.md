@@ -1,40 +1,26 @@
-<h1 align="center">Hi there, I'm Eugen Miknevic</h1>
-<h3 align="center">Senior Foundry Engineer & AI Developer | Industrial AI Enthusiast</h3>
+# Eugen Miknevic
 
-<p align="left">
-I am a qualified <b>Metallurgical Engineer</b> based in Germany with over 15 years of experience in the foundry industry. I bridge the gap between traditional manufacturing and modern technology by developing <b>AI-driven solutions</b> for process automation and quality control. My focus is on applying <b>Computer Vision</b> and <b>Graph Neural Networks (GNN)</b> to solve complex casting challenges.
-</p>
+Foundry engineer, working in casting since 2006. I learned modern AI to combine it with what I know about casting, and I build software tools for foundries and metallurgy: solidification simulation, physics-based machine learning and shop-floor software.
 
-- I’m currently working on a **Computer Vision model for casting defect detection** and **GNNs for solidification prediction**
+Website: [eugenmik.github.io](https://eugenmik.github.io) · [LinkedIn](https://linkedin.com/in/eugenmiknevic) · eugenmiknevic@gmail.com
 
-- I’m currently deepening my knowledge in **Advanced GNN architectures**
+## Projects
 
-- I’m open to collaborate on **AI tools for Manufacturing**
+| Project | What it does |
+|---|---|
+| [FoundryFlash](https://eugenmik.github.io/projects/foundryflash/) | Casting solidification simulator in the browser. A Julia solver with a CUDA backend solves 1.6 million elements in 9.9 s on a consumer GPU. The source is private. |
+| [casting-gnn-solidification](https://github.com/eugenmik/casting-gnn-solidification) | Graph neural network trained on 14,437 FEM simulations that predicts solidification time and hot spots from a STEP file in seconds. |
+| [gusscore-erp](https://github.com/eugenmik/gusscore-erp) | ERP/MES for iron and steel foundries. Workers report by voice or photo through local AI models, and a person confirms every proposal. |
+| [techbookocr](https://github.com/eugenmik/techbookocr) | Local OCR that turns old scanned metallurgy and foundry handbooks into Markdown with tables, formulas and figures, for a knowledge base in Obsidian. |
+| [alloyforge](https://github.com/eugenmik/alloyforge) | Superalloy design assistant with PHACOMP and CALPHAD screening and a search over metallurgy literature. Work in progress. |
 
-- Check out my projects at [GitHub](https://github.com/eugenmik?tab=repositories)
+## Articles
 
-- I regularly write articles about Foundry & AI at [GussMaker](https://gussmaker.com/)
+- [A Faster First Look at Casting Solidification](https://www.foundrymag.com/simulation-it/media-gallery/55399966/a-faster-first-look-at-casting-solidification-technical-development), Foundry Management & Technology, September 2026
+- [Certainty in the Early Design Stages of Foundry Engineering](https://www.foundry-planet.com/d/certainty-in-the-early-design-stages-of-foundry-engineering-1/), Foundry-Planet, September 2026
 
-- Ask me about **Industrial AI, Casting Technology, LLMs, RAG Agents, Python, Docker**
+## What I work with
 
-- How to reach me: **eugen@gussmaker.com**
+Casting: gating and feeding design, MAGMASOFT, ProCAST, WinCast, 3D-printed moulds and patterns.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/eugenmiknevic" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="eugenmiknevic" height="30" width="40" /></a>
-<a href="https://gussmaker.com" target="blank"><img align="center" src="https://img.shields.io/badge/Website-Gussmaker-blue?style=for-the-badge&logo=google-chrome" alt="gussmaker" height="30" /></a>
-</p>
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-    <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-    <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> 
-    <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> 
-    <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a>
-    <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> 
-    <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
-    <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> 
-    <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-    <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> 
-    <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> 
-    <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> 
-</p>
+Software: Python, Julia, PyTorch Geometric, FEniCSx, Gmsh, FastAPI, SvelteKit, React, PostgreSQL, Docker.
